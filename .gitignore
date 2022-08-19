@@ -1,0 +1,12 @@
+basic_hardhat/node_modules
+basic_hardhat/.env
+basic_hardhat/coverage
+basic_hardhat/coverage.json
+basic_hardhat/typechain
+basic_hardhat/typechain-types
+
+#Hardhat files
+basic_hardhat/cache
+basic_hardhat/artifacts
+
+basic_subscribe_logs/target
